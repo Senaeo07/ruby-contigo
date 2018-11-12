@@ -1,0 +1,10 @@
+Account Management/Retention Development and Business Analytics/CRD/Business Review Data
+
+Includes summation of charges for the following: 
+Freight- 2102 , 2123 , 2130 , 4000 , 4001 , 4002 , 4004 , 4030 , 4402 , 4408 , 4421 , 4422 , 4469 , 4506 , 4701 , 4709 , AMSA , P/UT
+Duty- 2101, 2100, K84
+Customs -  0201 , 0701 , 2100 , 4003 , 4592 
+Delivery -  0130 , 0131 , 2106 , 4401 , 4403 , 4423 , 4429 , 4480 , V093 
+Destination Charges -  2115 , 4007 , 4024 , 4597 , 4643 , 4645 , V163 , V192 , V197 
+Origin Fees -  2118 , 4018 , 4031 , 4083 , 4087 , 4461 , 4462 , 4463 , 4703 , 4708 , 4754 , V196 
+Other -  2190 , 4590 , V098 , Z408, and all not listed
